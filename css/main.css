@@ -55,7 +55,7 @@ body {
 }
 
 .logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -485,10 +485,6 @@ body {
   line-height: 1.1428571429;
   font-weight: 700;
   letter-spacing: 0.03em;
-  /*--font-weight: 700;
-    font-size: 14px;
-    line-height: 1.14;
-    letter-spacing: 0.03em;--*/
   text-transform: uppercase;
   color: var(--first-text-color);
 }
@@ -656,7 +652,7 @@ body {
 
 .footer__contacts,
 .footer__address {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-size: 14px;
   line-height: 1.71;
